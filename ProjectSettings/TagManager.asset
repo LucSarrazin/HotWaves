@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - BlockWall
+  - Destroy
+  - DestroyBullet
+  - WallDroit
+  - WallGauche
+  - EnemyBullet
+  - Hurt
+  - Explosion
+  - health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Boss
+  - Water
+  - UI
+  - Enemi
+  - DestroyBullet
+  - Bullet
+  - Player
+  - EnemyBullet
+  - Helth
+  - destroy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Test
+    uniqueID: 3010885965
+    locked: 0
