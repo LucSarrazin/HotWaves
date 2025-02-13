@@ -103,7 +103,7 @@ public class Enemy : MonoBehaviour
                 explode.Play();
                 playerScript.points++;
                 ParticleSystem Explosion = Instantiate(explosion, transform.position, new Quaternion(0, 180, 0, 0));
-                Destroy(explosion,0.1f);
+                Destroy(Explosion,0.1f);
                 Destroy(gameObject);
                 print("Touch Bullet");
             }
