@@ -15,8 +15,7 @@ HotWaves est un jeu inspiré du classique **Space Invaders**, où vous incarnez 
 - **Flèche bas / S** : Déplacement vers le bas
 - **Flèche gauche / Q** : Déplacement vers la gauche
 - **Flèche droite / D** : Déplacement vers la droite
-- **Espace** : Tirer
-- **Échap** : Pause
+- **Clique Gauche** : Tirer
 
 ## 📥 Installation
 
